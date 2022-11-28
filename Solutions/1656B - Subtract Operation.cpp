@@ -20,7 +20,7 @@ int main() {
                                 while(j<i && arr[i]-arr[j]>k) j++;
                                 if(arr[i]-arr[j]==k) {flag = true; break;}
                         }
-                      if(flag ==true) cout<<"YES\n";
+                      if(flag) cout<<"YES\n";
                       else cout<<"NO\n";
                       
           }
