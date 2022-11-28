@@ -1,2 +1,4 @@
 # codeforces
-Codeforces problemsets &amp; contests solutions in C++ .
+Hi! everyone,
+Here I upload Codeforces problemsets &amp; contests solutions in C++ .
+
